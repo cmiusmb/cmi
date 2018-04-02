@@ -57,5 +57,6 @@ defaults:
         type: pages
       values:
         author_profile: true
+        excerpt: un petit sous-titre
         header:
           overlay_image: /assets/images/IMG_0511.jpg
